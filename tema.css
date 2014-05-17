@@ -1,0 +1,22 @@
+.tabel {
+	float: right;
+}
+table {
+	margin: 10px;
+	border: 5px solid #0F2E61;
+	border-radius: 10px;
+}
+
+.contact {
+	font-size: 40px;
+}
+
+.doge {
+	font-size: 20px;
+	color: #0F2E61;
+	display: inline-block;
+}
+
+.telefon {
+	font-size: 20px;
+}

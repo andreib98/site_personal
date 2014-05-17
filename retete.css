@@ -1,0 +1,104 @@
+.scris {
+	font-size: 30px;
+	width: 50%;
+}
+
+.buton {
+	font-size: 25px;
+	background: #0F2E61;
+	width: 150px;
+	height: 55px;
+	color: white;
+	font-family: "Arvo";
+	margin: 20px;
+	border-radius: 15px;
+}	
+
+.buton .lasagna {
+	padding: 10px 0;
+}
+
+.reteta {
+	background: #E0E0E0;
+	width: 500px;
+	height: 700px;
+	position: absolute;
+	left: 55%;
+	top: 2%;
+	border-radius: 30px;
+}
+
+.titlureteta {
+	font-size: 30px;
+	color: #0F2E61;
+}
+
+.text {
+	width: 98%;
+	margin: 0 1%;
+}
+
+.r1p1 {
+	height: 600px;
+}
+
+.r1p2 {
+	height: 600px;
+}
+
+.r1p3 {
+	height: 600px;
+}
+
+.r2p1 {
+	height: 600px;
+}
+
+.r2p2 {
+	height: 600px;
+}
+
+.r2p3 {
+	height: 600px;
+}
+
+.r3p1 {
+	height: 600px;
+}
+
+.r3p2 {
+	height: 600px;
+}
+
+.r3p3 {
+	height: 600px;
+}
+
+.butonpagina {
+	font-size: 20px;
+	margin: 0 10px;
+	color: #0F2E61;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+}
+
+.ingr {
+	margin: 0 0 0 20px;
+}
+
+.pofta {
+	font-size: 45px;
+	font-family: "Vollkorn";
+	color: #2F4D7D;
+}
+
+.jos {
+	position: relative;
+	top: 35px;
+}
+
+.jos2 {
+	position: relative;
+	top: 10px;
+}
